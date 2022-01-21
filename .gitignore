@@ -6,6 +6,15 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 
+# Texap Next
+texap/.next
+texap/node_modules
+
+# Texap Strapi
+texap-api/.cache
+texap-api/node_modules
+texap-api/build
+
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
